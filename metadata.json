@@ -1,0 +1,11 @@
+{
+  "name": "PALASS",
+  "symbol": "PLSS",
+  "description": "PALASS (PLSS) is a community test token launched on Robinhood Chain testnet through the vibe/vibe launchpad. It is the on-chain mascot of a small Indonesian airdrop-farming crew documenting their testnet journey in public: launch honestly, trade fairly, no promises and no real funds - testnet only. Holders are fellow testers exploring bonding curves together ahead of the vibe/vibe mainnet.",
+  "image": "https://raw.githubusercontent.com/Elies87/palass-token/main/logo.png",
+  "attributes": [
+    {"trait_type": "Network", "value": "Robinhood Chain Testnet"},
+    {"trait_type": "Launchpad", "value": "vibe/vibe"},
+    {"trait_type": "Type", "value": "Community test token"}
+  ]
+}
